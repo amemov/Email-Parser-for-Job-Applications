@@ -60,7 +60,8 @@ Download the credentials.json File:
   
 ## Step 3: Run the Script
 > [!WARNING]
-> Script right now works only with preprocessed emails (max 800) that were appended to one email and sent as 1 request to ChatGPT 4o-mini. I'm in the process of improving this step to make it more accessible 
+> Script right now works only with preprocessed emails (max 800) that were appended to one email and sent as 1 request to ChatGPT 4o-mini.
+> Given that most people have thousands unread emails, I'm in the process of improving this step to make it more accessible and efficient for such cases
 
 Make sure you created a spreadsheet in Google Sheets or imported one - replace the spreadsheet ID and name with yours. It has to follow this format:
 ```
